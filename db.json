@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "mohamed",
+      "lastName": "radwan",
+      "email": "mohamed10@gmail.com",
+      "mobile": "01283286796",
+      "salary": "5000"
+    },
+    {
+      "id": 3,
+      "firstName": "ahmed",
+      "lastName": "atef",
+      "email": "ahmed01112@yahoo..com",
+      "mobile": "6548842",
+      "salary": "4554"
+    },
+    {
+      "id": 4,
+      "firstName": "dwadaw",
+      "lastName": "dawdaw",
+      "email": "wdawdwa@dawdwa.com",
+      "mobile": "21312312443",
+      "salary": "132312"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
